@@ -1,0 +1,23 @@
+Buenas mi nombre es Junior Rafael Aquino De Leon 
+
+en esta ocasion vamos hacer una galeria de gift, 
+haciendo una peticion a ghipy 
+
+vamos hacer la aplicacion de GifExpertApp tomando como 
+referencia la  aplicacion de fernando herrera 
+
+lo primero es crear nuestra api key personalizada para nuestro proyecto
+
+2ZfAPbF1r2mT0hxnt6V054p5LsLseem2
+
+ya esta funcionando nuestro componente
+
+voy a copiar el codigo fuente, pero mientras lo voy copiando 
+
+voy a ir comprendiendo mejor el codigo al final del video lo explico 
+
+Aqui terminamos de COPIAR nuestro primer componente  
+
+trato de explicarlo lo que hiso, es una forma que me ayuda a comprender mas react vamos con el segundo componente 
+
+esta funcionando , pero tenemos un problemas cada vez que cambio una letra envia el formulario vamos a ver que hice mal 
